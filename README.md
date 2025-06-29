@@ -1,7 +1,5 @@
- NB: The ETL process  has to be demonstrated using Power Query (See Expected Transformation Sheet)
- TASK 
-Prepare and Present the following Required information:
- ETL Process
+TASK 
+Prepare and Present the following Required information: ETL Process
  1. Create RCPA Data Table as demonstrated in Expected Transformation sheet.
  2. Create Competitor RCPA Data Table as demonstrated in Expected Transformation sheet.
  Visualization
